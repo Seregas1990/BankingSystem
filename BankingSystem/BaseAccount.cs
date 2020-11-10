@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BankingSystem
+﻿namespace BankingSystem
 {
     public abstract class BaseAccount:IAccount
     {
